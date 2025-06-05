@@ -1,3 +1,11 @@
+---
+layout: post
+title: "June 2025 Edition"
+subtitle: "Holy Carp! It's Been 3 Years!"
+date: 2025-06-08 12:12:12 -0700
+background: '/img/posts/01.jpg'
+---
+
 <!-- markdownlint-disable -->
 # 2025-06 Edition
 
