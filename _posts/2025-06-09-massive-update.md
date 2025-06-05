@@ -1,0 +1,93 @@
+<!-- markdownlint-disable -->
+# 2025-06 Edition
+
+It has been almost 3 years since my last family letter. Things have drastically changed since June 2025 from my family and myself. If you aren't in the mood for reading some rather depressing things, skip the sections labeled 'depressing'
+
+I'm trying a new method of sending out these emails using a newsletter service. If you don't want to receive these emails you can unsubscribe at this link.
+
+I am now 45 and definitely feeling my age. I had my first colonoscopy recently which was certainly an experience. Sarah was killing it with the jokes while driving me their and waiting with me before the procedure. I'll spare you most except for the one about my doctor. His name is Dr. Vulcano. Sarah asked a nurse if he got into this business because of his love of things that expel toxic gasses. Perhaps you needed to be there but I was laughing my head off.
+
+
+<div>
+    <img src="img/posts/volcano.jpg" alt="Volcano Gas" style="max-height: 200px;">
+</div>
+
+The prep wasn't as bad as everyone seems to indicate but it [certainly cleared my head](https://www.quotes.net/mquote/51889). Everything went smoothly and aside from some benign stuff I was given a clear bill of health. I did however wake up mid-procedure. I won't bore you but I was very confused and when I asked someone a question the anesthesiologist immediately gave me some more night-night juice.
+
+## Depressing
+
+As you may or may not know my family experienced multiple losses in the past couple of years. In October or thereabouts my father went in for an amputation of an infected leg. While there he became delirious and I had to take over their finances. He recovered mostly and was able to return home but a few months later, around the time of my birthday he suffered a stroke and his ability to speak was taken from him. It was devastating as he was always a gregarious individual who loved telling jokes and chatting people up. We ended up finding an inhome assistant to help take care of them but to keep costs down they were only there during the day. During the morning and evening hours my brothers and I stepped in. Luckily my work was exceptionally flexible and I was able to work from their house to be able to assist. At night we had provided my parents a button that would trigger notifications on our phones that something was up that required assistance. I personally racked up a ton of mileage traveling back and forth to assist. It was one of the hardest things I had gone through to date.
+
+While there my mother started exhibiting signs of memory deteorization. She would forget where she was when we drove around places. One time she started frying an egg and never came back to it. Luckily someone was there at the time to prevent a house fire situation. It progressively got worse with her thinking she was younger and needing to go home. She would walk outside and wait inside the car to go to her home. Eventually she started wandering away down the street. It became more and more of a burden on the in home assistants. We eventually had to look into assisted living facilities. This terrified me because my parents had always said that they didn't want to live in a facility if possible. Growing up, we lived down the street from a 'retirement home' that we sometimes went to for church activities. It was frightening and smelly. Luckily we managed to find a decent and economical choice in [Eternal Spring of Gilbert](https://eternalspringaz.com/). We initially wanted to have them in the assisted living side of the house where they could live on their own with some assistance. They moved in in April and ended up having to be moved to the memory care side of the facility within a few weeks. That really hurt but made a lot of sense. Luckily they were able to continue living together.
+
+During this time my brothers and I took over every facet of their lives other than daily care. I became the paperwork, finance and appointment czar. That entailed getting Power of Attorney, documenting medications, scheduling appointments, traveling to and from appointments, managing funds and payments. It was exhausting. Trying to gain access to accounts, both financial and electronic, was an eye opening experience. To everyone who have people who depend on you I say, MAKE A PLAN for your incapacitation or death. I ended writing a "in case of death" letter so that in the event I can't be reached, Sarah or someone else knows how to access funds, accounts and resources while attempting to sort through what will surely be a tramatic experience (because I am an irreplaceable delight 😉). My brother Mark, who was going through his own trials at the time moved into their house and started to prep it for sale. I wouldn't trade his experience for mine in a million years. The flooring all had to be ripped up, termite damage had to be repaired, the house had to be purged of bed bugs, the rooms all had to be painted and walls patched, the posessions and belongings had to be sorted through and then sold, stored or donated. This was a monumental task and I am thankful to this day that he was able to handle this. My brother Jacob, was the caretaker and 'ubereats' guru. He always made sure that mom and dad were well stocked with supplies, food and treats. Thank you Jacob. Each of us and our spouses, during this time, had a number of rather awkward experiences and surprises. We ended up comparing notes and vying for the top most awkward experience. I think we all came out losers though.
+
+<div>
+    <img src="img/posts/disgusted_surprise.gif" alt="Disgusted Surprise" style="max-height: 200px;">
+</div>
+
+My father struggled in his new environment and was in and out of the hospital multiple times. Eventually he suffered from a minor cut on his foot that due to neglect became infected and eventually caused him to pass away. This was the hardest thing I had ever experienced to date and caused me and my brothers to weep like babies. My father was not peaceful or comfortable in his final days and for that I will be eternally saddened. His funeral however was very nice and a whole community of people came to pay their respects and to support his family. Even writing this I am tearing up. I heard many great stories and I got to tell one of my favorite stories that my dad would tell. My mom was still mostly present but had some moments where confusion was setting in. At one point we made her ['business cards'](https://www.canva.com/design/DAF0Xzs0jS4/_OhlK-JLB7aAIDfZhxEvog/view?utm_content=DAF0Xzs0jS4&utm_campaign=designshare&utm_medium=link&utm_source=editor) in case people wanted to visit or call her. At one point she asked to have a wish list of stuff placed on the back in case people wanted to give gifts. We shut that down and she later had no recollection and thought we were pulling her leg. [We love and miss you dad.](https://www.canva.com/design/DAF0b08oct0/Ha4E7uLvEC6O9jp4z562fw/edit?utm_content=DAF0b08oct0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<div>
+    <img src="img/posts/mom_dad.png" alt="Mom and Dad" style="max-height: 200px;">
+</div>
+
+## Now time for everything to be all about me!
+
+<div>
+    <img src="img/posts/im_a_queen.webp" alt="I'm a Queen!" style="max-height: 200px;">
+</div>
+
+It has been a long few years and so I'm not quite sure of everything that has transpired since I last communicated.
+
+I'm still working in a job where I get to work remotely from home. I love it! My commute is excellent and it has been so helpful to have more time to help with my family around the house. I recently saw a job posting at the Boeing Mesa facility that I would have been excellent for and might have meant a bit of a promotion (minor) but it was an onsite position back on a 9x80 schedule. I debated for a bit but ultimately the promotion wouldn't have made sense for my family given the loss of remote flexibility.
+
+The job itself has changed and moved more to a software developer roll rather than strictly a data engineering roll. I love it because I'm learning so many new different things. I have learned so much and in this particular roll I am able to apply some of what I have learned managing my own servers and services at home. The only frustration I have is that we use some very old technologies and most efforts at upgrading and updating are met with negative positions without any consideration.
+
+Speaking of servers/services I have been having a lot of fun with this. Actually if I am speaking truthfully I have a love/hate relationship with it. <div>
+    <img src="img/posts/love_hate.gif" alt="alt text" style="max-height: 200px;">
+</div>
+
+When I am exploring new things or enjoying the fruits of my labor I absolutely love it. When things are broken it frustrates the hell out of me. Some of favorite new services are:
+
+- [Audiobookshelf](https://www.audiobookshelf.org/) - Allows me to listen to my favorite audiobooks and podcasts anywhere instead of just on my phone.
+- [OpenWebUI](https://docs.openwebui.com/) - Lets me have my own personal ChatGPT interface and history with a bunch of different models. Some models are better at somethings than others. Also lets me do a bunch of customization like creating an interface where students could go for help with homework rather than being able to ask it to do their homework.
+- [Paperless-ngx](https://docs.paperless-ngx.com/) - Manages all of my documents. I'm a nerd and a bit obsessive about scanning and saving most documents. I always feel like I will be missing something when I need it. This has actually saved me a few times especially while navigating services for folks in my life.
+- [StirlingPDF](https://stirlingpdf.io/) - Allows me to edit my PDFs. Works great in conjunction with Paperless-ngx
+- [n8n](https://n8n.io/) - Allows me to establish workflows that automatically process things for me. For instance, whenever an email comes into my Gmail inbox it feeds it to a AI model which categorizes it based on some parameters I established. Then it will drop the emails into a variety of buckets that I can then more quickly review at my leisure.
+- [Vault/BitWarden](https://www.vaultwarden.net/) - Stores all of my passwords, passkeys and OTP authenticator keys.
+- [Romm](https://romm.app/) - Allows me to play old video games through my web browser. Being able to play Dr Mario from anywhere is awesome.
+- [Immich](https://immich.app/) - A Google Photos clone. I hate having to spend a ton of money on Google just to have a limited space for photos. So instead I spend a bunch of money powering a home server to have unlimited (nearly) for photos. I don't know if this is a fair trade.
+
+About a year ago for Father's Day along with some of my own saved up cash, Sarah bought me a new 3D printer. It has been an absolute blast to play with. There are tons of websites where you can download print ready 3D models; [makerworld](https://makerworld.com/en), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/?sort=trending) and plenty of other ones. Even though there are a lot of cute things, I tend to stick to the 'white 'n' nerdy stuff like organizers. There are two systems I use a lot: [Gridfinity](https://gridfinity.xyz/) and [Multiboard](https://www.multiboard.io/). In both I have organized extensively around the house; laundry room, kitchen drawers, junk drawers, fileing cabinets, desk walls, cable routing under my desk. It is totally nerdy and I love it.
+
+<div>
+    <img src="img/posts/multiboard_desk_wall.jpeg" alt="Multiboard Desk Wall" style="max-height: 200px;">
+</div> <div>
+    <img src="" alt="Gridfinity Filing Cabinet" style="max-height: 200px;">
+</div> <div>
+    <img src="" alt="Gridfinity Cable Storage" style="max-height: 200px;">
+</div>
+
+We do have a bit of fun too.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="img/posts/3D_dummy13.jpeg" alt="Dummy 13 Pose" style="height: 200px; margin-right: 10px;">
+    <img src="img/posts/3d_universal_gift_cards.jpeg" alt="Universal Gift Cards" style="height: 200px;">
+</div>
+
+Alex had me obtain a 3D printed No-Face mask from Spirited Away and he used it for Halloween. He also purchased the 3D model and the materials to print and paint a character figurine. I don't have a picture of the painted final product but it looks nice.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="img/posts/3D_noface.jpeg" alt="No-Face" style="max-height: 200px; margin-right: 10px;">
+    <img src="img/posts/3D_figurine.jpeg" alt="3D figurine" style="max-height: 200px;">
+</div>
+
+ As you know I am an engineer and I have some 3D modeling experience. I have started creating and uploading my own models for people to see and use on [Makerworld](https://makerworld.com/en/@msfoote).
+
+ 
+
+
+- Alex hospitalization (COPD) from ECT
+- Tanner staying with us and then moving out on his own
+- Cruising
