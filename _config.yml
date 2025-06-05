@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              The S&M Foote Family Letters
+email:              matthew.foote@gmail.com
+description:        Family letters about the exploits and travails of the Sarah and Matthew Foote Family
+author:             Mostly Matthew
+baseurl:            "/blog"
+url:                "https://msfoote.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    msfoote
+facebook_username:  matthew.d.foote
 instagram_username:  
-linkedin_username:
+linkedin_username:  matthewdfoote
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
